@@ -1,7 +1,4 @@
 This repo is just for testing out potential components. 
-
-At the moment it contains:
- - Language Translation Component
  
 I'd like to, for now, break down components into categories such as:
  - components: low level modular components
