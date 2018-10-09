@@ -1,6 +1,6 @@
 import React from 'react';
 import {I18n} from 'react-i18next';
-import PropTypes from 'prop-types;'
+import PropTypes from 'prop-types';
 
 class BilingualLayout extends React.Component {
 
