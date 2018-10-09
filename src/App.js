@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import BilingualLayout from './components/BilingualLayout';
+import BilingualLayout from './page-components/BilingualLayout';
 import TestComponent from "./components/TestComponent";
 import TestLanguageToggle from "./components/TestLanguageToggle";
 

@@ -16,8 +16,10 @@ class BilingualLayout extends React.Component {
               const ChildrenWithTranslation = React.Children.map(children, (child) =>
                 React.cloneElement(child, {t : t, i18n: i18n})
               );
-              return(ChildrenWithTranslation);
-          }
+              return(
+                ChildrenWithTranslation
+              );
+            }
           }
         </I18n>
       </I18nextProvider>
