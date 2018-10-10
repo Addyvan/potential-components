@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import BilingualLayout from './page-components/BilingualLayout';
-import TestComponent from "./components/TestComponent";
-import TestLanguageToggle from "./components/TestLanguageToggle";
+import TestComponent from "./test/TestComponent";
+import TestLanguageToggle from "./test/TestLanguageToggle";
 
 import {
   Button
