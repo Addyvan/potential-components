@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import BilingualLayout from './page-components/BilingualLayout';
 import TestComponent from "./test/TestComponent";
 import TestLanguageToggle from "./test/TestLanguageToggle";
+import BarGraph from "./components/BarGraph"
 
 import {
   Button
@@ -14,6 +15,7 @@ class App extends Component {
           <TestComponent />
           <TestLanguageToggle />
           <Button color="primary">Yo waddup</Button>
+          <BarGraph></BarGraph>
         </BilingualLayout>
     );
   }
